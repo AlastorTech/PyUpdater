@@ -2,7 +2,7 @@ from pyupdater.client import Client
 from client_config import ClientConfig
 import traceback
 APP_NAME = "PyUpdater Tut"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.1.0"
 
 ASSET_NAME = "ffmpeg"
 ASSET_VERSION = '2.3.2'
