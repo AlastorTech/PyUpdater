@@ -1,0 +1,20 @@
+{
+  "config_dir": "C:\\Users\\Alast\\OneDrive\\Documents\\PPP\\PyUpdater\\.pyupdater",
+  "filename": "C:\\Users\\Alast\\OneDrive\\Documents\\PPP\\PyUpdater\\.pyupdater\\config.pyu",
+  "count": 0,
+  "app_config": {
+    "APP_NAME": "PyUpdater Tut",
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "COMPANY_NAME": "Alastor Bloode",
+    "PLUGIN_CONFIGS": {},
+    "UPDATE_PATCHES": true,
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "HTTP_TIMEOUT": 30,
+    "UPDATE_URLS": [
+      "http://www.github.com/AlastorTech/PyUpdater"
+    ],
+    "DATA_DIR": "C:\\Users\\Alast\\OneDrive\\Documents\\PPP\\PyUpdater"
+  }
+}
